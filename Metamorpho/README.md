@@ -1,7 +1,7 @@
 ### Metamorpho is a virtual synthesizer that uses subtractive synthesis.
 #### This was a final project in my object-oriented design class and was implemented in C++
 
-![ScreenShot]
+![ScreenShot](https://github.com/jpxrc/Projects/blob/master/Metamorpho/Metamorpho.jpg)
 
 * Uses VST2 technology so that you can import the synth into your favorite Digital Audio Workstation and make some million dollar beats
 * You may need to set the audio device settings in order to hear sound
