@@ -1,0 +1,10 @@
+﻿Build started 11/26/2014 6:22:46 PM.
+     1>Project "C:\wdl-ol\IPlugExamples\Metamorpho\Metamorpho-vst2.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"build-win\vst2\Win32\bin\Metamorpho.dll" /NOLOGO /LIBPATH:"C:\wdl-ol\IPlugExamples\Metamorpho\..\..\WDL\IPlug\build-win\Win32\Debug\\" /LIBPATH:"C:\wdl-ol\IPlugExamples\Metamorpho\..\..\WDL\lice\build-win\Win32\Debug\\" IPlug.lib lice.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"build-win\vst2\Win32\bin\Metamorpho.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"build-win\vst2\Win32\bin\Metamorpho.lib" /MACHINE:X86 /DLL "build-win\vst2\Win32\Debug\IPlugVST.obj"
+         Metamorpho-vst2.vcxproj -> C:\wdl-ol\IPlugExamples\Metamorpho\build-win\vst2\Win32\bin\Metamorpho.dll
+     1>Done Building Project "C:\wdl-ol\IPlugExamples\Metamorpho\Metamorpho-vst2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.16
