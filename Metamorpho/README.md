@@ -1,4 +1,4 @@
-### Metamorpho is a virtual synthesizer that uses subtractive synthesis.
+### Metamorpho is a real-time polyphonic virtual synthesizer that uses subtractive synthesis to create sounds.
 #### This was a final project in my object-oriented design class and was implemented in C++. I also designed the synthesizer graphic in Photoshop.
 
 ![ScreenShot](https://github.com/jpxrc/Projects/blob/master/Metamorpho/Metamorpho.jpg)
@@ -10,4 +10,4 @@
 * Use the filter, envelope generator, and filter envelope to shape your sound to your liking
 * Use the low-frequency oscillator to make that wobble-wobble dubstep sound
 
-Metamorpho is a fully-functional executable and can be ran (compiled for windows) by running: 
+Metamorpho is a fully-functional executable and can be ran (compiled for windows) by running: https://github.com/jpxrc/Projects/blob/master/Metamorpho/build-win/app/Win32/bin/Metamorpho.exe
