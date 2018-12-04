@@ -1,0 +1,30 @@
+#1
+FIRE IN THE SKY
+An asteroid impacts near your region and causes widespread fires and death. Decrease your Population level by 2.
+PopLevel,0,INCREASE,PopLevel,-1
+PopLevel,0,DECREASE,PopLevel,-1
+END
+#2
+WHITE-OUT
+A portion of your species happens to be in an area with where an avalanche occurs. Decrease your Population level by 1.
+PopLevel,0,INCREASE,PopLevel,-1
+PopLevel,0,DECREASE,PopLevel,-1
+END
+#3
+THE PURGE
+Some of your population was killed by a major flood caused by tropical storms. Decrease your Population level by 1.
+PopLevel,0,INCREASE,PopLevel,-1
+PopLevel,0,DECREASE,PopLevel,-1
+END
+#4
+ETERNAL THIRST
+A devastating drought in the area kills off a portion of your species. Decrease Population level by 1.
+PopLevel,0,INCREASE,PopLevel,-1
+PopLevel,0,DECREASE,PopLevel,-1
+END
+#5
+DON'T BLOW YOUR TOP
+A volcano erupts and causes volcanic ash to affect visibility and breathing for your species. Decrease your Population level by 1.
+PopLevel,0,INCREASE,PopLevel,-1
+PopLevel,0,DECREASE,PopLevel,-1
+END

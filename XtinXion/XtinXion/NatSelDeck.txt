@@ -1,0 +1,36 @@
+#1
+DEATH FROM ABOVE
+If your Predator & Avoidance level is greater than 5, then you have escaped. Otherwise, decrease your Population level by 1.
+PredAvoEva,5,INCREASE,PopLevel,0
+PredAvoEva,5,DECREASE,PopLevel,-1
+END
+#2
+HOT-STUFF
+If your Mate Attraction level is greater than 4, then you have attracted a mate. Increase your Population level by 1.
+MateAtt,4,INCREASE,PopLevel,1
+MateAtt,4,DECREASE,PopLevel,0
+END
+#3
+GUARDIAN OF EDEN
+If your Territorial Defense level is greater than 5, then you have improved foraging capabilities. Increase Forage level by 1. Otherwise, decrease Population Level by 1.
+TerrDef,5,INCREASE,Forage,1
+TerrDef,5,DECREASE,PopLevel,-1
+END
+#4
+THE LONG ROAD
+If your Environmental Stress Tolerance level is greater than 4, then you have survived the drought. If not, decrease your Population Level by 1.
+EnvStrTol,4,INCREASE,PopLevel,0
+EnvStrTol,4,DECREASE,PopLevel,-1
+END
+#5
+SPREADING THE SICKNESS
+A virus outbreak in the local crops has caused many deaths. If your Forage level is greater than 5, then you have found safer food alternatives. Otherwise, decrease your Population level by 1.
+Forage,5,INCREASE,PopLevel,0
+Forage,5,DECREASE,PopLevel,-1
+END
+#6
+FIGHT OR FLIGHT
+A group of predators invade your territory. If your Predator Avoidance & Evasion level is greater than 6, then you have escaped but you lose a point from your Territorial Defense level.
+PredAvoEva,6,INCREASE,TerrDef,-1
+PredAvoEva,6,DECREASE,PopLevel,-1
+END
