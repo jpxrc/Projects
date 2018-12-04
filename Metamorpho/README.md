@@ -1,4 +1,4 @@
-### Metamorpho is a real-time polyphonic virtual synthesizer that uses subtractive synthesis to create sounds.
+### Metamorpho is a real-time polyphonic virtual synthesizer that uses subtractive synthesis.
 #### This was a final project in my object-oriented design class and was implemented in C++. I also designed the synthesizer graphic in Photoshop.
 
 ![ScreenShot](https://github.com/jpxrc/Projects/blob/master/Metamorpho/Metamorpho.jpg)
