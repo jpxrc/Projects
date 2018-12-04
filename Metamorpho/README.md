@@ -11,3 +11,5 @@
 * Use the low-frequency oscillator to make that wobble-wobble dubstep sound
 
 Metamorpho is a fully-functional executable and can be ran (compiled for windows) by running: https://github.com/jpxrc/Projects/blob/master/Metamorpho/build-win/app/Win32/bin/Metamorpho.exe
+
+If for some reason the above executable is removed (for security purposes), you can extract the following fodler to get the same executable: https://github.com/jpxrc/Projects/blob/master/Metamorpho/build-win1.zip
