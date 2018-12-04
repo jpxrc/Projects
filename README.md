@@ -1,4 +1,4 @@
-# List of Projects
+# Programming Projects
 This is an ever-evolving list that I have broken out into different categories ranging from projects, course-related assignments, and useful tricks I've learned along the way*. 
 
 ### [Metamorpho](https://github.com/jpxrc/Projects/tree/master/Metamorpho): A real-time polyphonic software synthesizer based on subtractive synthesis technology (C++)
