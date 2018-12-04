@@ -8,4 +8,4 @@ This is an ever-evolving list that I have broken out into different categories r
 ### Using RetinaNet for detecting objects in high-resolution satellite imagery (Python)
 ### Classifying sarcasm in Reddit corpora using Recurrent Neural Networks (Python)
 
-* - Some directories may not be available yet due to pending proposals or because I haven't gotten around to packaging everything up nicely =)
+*- Some directories may not be available yet due to pending proposals or because I haven't gotten around to packaging everything up nicely =)
