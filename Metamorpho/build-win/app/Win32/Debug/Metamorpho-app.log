@@ -1,0 +1,25 @@
+﻿Build started 11/18/2018 9:25:08 PM.
+     1>Project "C:\wdl-ol\IPlugExamples\Metamorpho\Metamorpho-app.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"build-win\app\Win32\bin\Metamorpho.exe" /NOLOGO /LIBPATH:"C:\wdl-ol\IPlugExamples\Metamorpho\..\..\WDL\IPlug\build-win\Win32\Debug\\" /LIBPATH:"C:\wdl-ol\IPlugExamples\Metamorpho\..\..\WDL\lice\build-win\Win32\Debug\\" dsound.lib winmm.lib Comctl32.lib IPlug.lib lice.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"build-win\app\Win32\bin\Metamorpho.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"build-win\app\Win32\bin\Metamorpho.lib" /MACHINE:X86 "build-win\app\Win32\Debug\Metamorpho.res"
+         "build-win\app\Win32\Debug\asio.obj"
+         "build-win\app\Win32\Debug\asiodrivers.obj"
+         "build-win\app\Win32\Debug\asiolist.obj"
+         "build-win\app\Win32\Debug\IPlugStandalone.obj"
+         "build-win\app\Win32\Debug\RtAudio.obj"
+         "build-win\app\Win32\Debug\RtMidi.obj"
+         "build-win\app\Win32\Debug\app_dialog.obj"
+         "build-win\app\Win32\Debug\app_main.obj"
+         "build-win\app\Win32\Debug\EnvelopeGenerator.obj"
+         "build-win\app\Win32\Debug\Filter.obj"
+         "build-win\app\Win32\Debug\Metamorpho.obj"
+         "build-win\app\Win32\Debug\MIDIReceiver.obj"
+         "build-win\app\Win32\Debug\Oscillator.obj"
+         "build-win\app\Win32\Debug\Voice.obj"
+         "build-win\app\Win32\Debug\VoiceManager.obj"
+         Metamorpho-app.vcxproj -> C:\wdl-ol\IPlugExamples\Metamorpho\build-win\app\Win32\bin\Metamorpho.exe
+     1>Done Building Project "C:\wdl-ol\IPlugExamples\Metamorpho\Metamorpho-app.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.50
