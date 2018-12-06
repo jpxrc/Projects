@@ -4,6 +4,7 @@
 ![ScreenShot](https://github.com/jpxrc/Projects/blob/master/Metamorpho/Metamorpho.jpg)
 
 #### Metamorpho features:
+* *Metamorpho* is Portuguese for Metamorpism or shapeshifter.
 * Uses VST2 technology so that you can import the synth into your favorite Digital Audio Workstation and make some million dollar beats
 * You may need to set the audio device settings in order to hear sound
 * You can click on the keys to produce sounds or you can hook-up a MIDI controller
