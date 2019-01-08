@@ -2,7 +2,7 @@ This is an ever-evolving list that I have broken out into different categories r
 
 ### [Metamorpho](https://github.com/jpxrc/Projects/tree/master/Metamorpho): A real-time polyphonic software synthesizer based on subtractive synthesis technology (C++)
 ### [XtinXion](https://github.com/jpxrc/Projects/tree/master/XtinXion/XtinXion): An educational digital card game that demonstrated concepts of evolution and population dynamics (Java)
-### [Programming Projects](https://github.com/jpxrc/Projects/tree/master/Programming%20Challenges): A collection of my solutions to different programming problems from CodeWars.com (Various Languages)
+### [Programming Challenges](https://github.com/jpxrc/Projects/tree/master/Programming%20Challenges): A collection of my solutions to different programming problems from CodeWars.com (Various Languages)
 ### Morton Encoding of Visual Data (Javascript/HTML)
 ### Evolutionary Computation for solving the Unbounded Knapsack problem (Python)
 ### Classifying communication signals from insects (Matlab)
