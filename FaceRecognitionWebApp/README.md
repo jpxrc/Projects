@@ -1,4 +1,4 @@
-### FaceRecognitionWebApp: 
+### FaceRecognitionWebApp 
 #### Project from my web development course that provides a fully-functional face detection web service.
 
 ##### User interface:
