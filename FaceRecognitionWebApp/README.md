@@ -12,7 +12,7 @@
 * Uses the [Clarifai](https://clarifai.com/) Computer Vision API to detect faces in images.
 * Built using React, HTML5/CSS5, Express.js, and PostgreSQL.
 * Allows for new users to register and authenticate themselves when signing in on new sessions.
-* Uses bcrypt for password hashing.
+* Uses [bcrypt](https://www.npmjs.com/package/bcrypt-nodejs) for password hashing.
 * Requires NPM to activate service.
 
 #### Folder contents:
