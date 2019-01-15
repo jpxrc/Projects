@@ -1,11 +1,11 @@
 ## FaceRecognitionWebApp 
-### Project from my web development course that provides a fully-functional face detection web service.
+#### Project from my web development course that provides a fully-functional face detection web service.
 
-##### User interface:
+#### User interface:
 ![ScreenShot](https://github.com/jpxrc/Projects/blob/master/FaceRecognitionWebApp/img/FaceDetect.PNG)
-##### Login Prompt:
+#### Login Prompt:
 ![SignIn](https://github.com/jpxrc/Projects/blob/master/FaceRecognitionWebApp/img/SignIn.PNG)
-##### Register New User Prompt:
+#### Register New User Prompt:
 ![Register](https://github.com/jpxrc/Projects/blob/master/FaceRecognitionWebApp/img/Register.PNG)
 
 #### Application features:
