@@ -7,7 +7,5 @@ This is an ever-evolving list that I have broken out into different categories r
 ### Morton Encoding of Visual Data (Javascript/HTML)
 ### Evolutionary Computation for solving the Unbounded Knapsack problem (Python)
 ### Classifying communication signals from insects (Matlab)
-### Using RetinaNet for detecting objects in high-resolution satellite imagery (Python)
-### Classifying sarcasm in Reddit corpora using Recurrent Neural Networks (Python)
 
 *- Some directories may not be public yet due to ongoing research but will become available eventually =)
